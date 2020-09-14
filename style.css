@@ -1,0 +1,31 @@
+
+@font-face{
+        font-family:LemonMilk;
+        src : url("lemonmilk-webfont.woff")
+
+}
+
+body{
+    background-image: url("avicii1.jpg");
+    background-size: 100% 210%;
+}
+
+#Intro{
+
+        color:linen;
+        text-align:right;
+        font-family:LemonMilk;
+
+
+}
+#Steve{
+        border:1px solid #082d2b;
+        align:center;
+        width:300px;
+        height:300px;
+        padding:10;
+        display:block;
+        margin:auto;
+        border-radius:50%;
+        cursor:pointer;
+}
