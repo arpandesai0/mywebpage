@@ -8,6 +8,7 @@
 body{
     background-image: url("avicii1.jpg");
     background-size: 100% 210%;
+    background-repeat:no-repeat;
 }
 
 #Intro{
